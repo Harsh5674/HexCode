@@ -200,23 +200,15 @@ Whether it's a **blog, portfolio, or business site**, your description becomes t
 
 ## Author 
 
--[@samar warsi](https://github.com/warsi1507)
+-[@Harsh Kumar](https://github.com/Harsh5674)
 
--[@mrigank](https://github.com/Mrigank22)
+-[@Ketan Arora](https://github.com/ketanarora004)
 
--[@ritvij](https://github.com/ritvij611)
+-[@Lakshya Batra](https://github.com/Maddy256)
 
--[@ashish more](https://github.com/Ashish-More-2023)
+-[@Deepak Kumar](https://github.com/Syssstum007)
 
--[@pavan lokesh](https://github.com/Dev-pavanlokesh)
-
--[@amar krish](https://github.com/rizzlibear)
-
--[@deval singhal ](https://github.com/maidevalhoon)
-
--[@atul singh](https://github.com/atuls3025)
-
-
+-[@Lohit Pattnaik](https://github.com/lohit1632)
 
 ---
 
