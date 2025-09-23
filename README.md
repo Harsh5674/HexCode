@@ -70,11 +70,11 @@ Perfect for:
 
    ```bash
    # Clone with default name
-   git clone https://github.com/Ashish-More-2023/HexCode.git
+   git clone https://github.com/Harsh5674/HexCode.git
    ```
    ```bash
    # Or clone with custom name
-   git clone https://github.com/Ashish-More-2023/HexCode.git your-project-name
+   git clone https://github.com/Harsh5674/HexCode.git your-project-name
    ```
 
 2. **Navigate to Project Directory**
